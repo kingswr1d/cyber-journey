@@ -1,8 +1,8 @@
-# cyber-journey 🛡️
+# cyber-journey 
 
 my public log as i teach myself cyber security from scratch.
 
-**goal:** land my first cyber security role by mid-2027 (SOC analyst, GRC, IT security — anything that gets me in the door).
+**goal:** land my first cyber security role by mid-2027 (anything that gets me in the door).
 
 **starting point:** junior sysadmin / hobbyist dev level. no formal sec training. no university degree.
 
@@ -16,16 +16,16 @@ my public log as i teach myself cyber security from scratch.
 
 ## structure
 
-- `weeks/` — one folder per week, with notes, screenshots, lab writeups
+- `weeks/` — one folder per week, with notes, lab writeups
 - `detection-rules/` — sigma / splunk / elastic queries i write for the home SOC lab
 - `lab-writeups/` — tryhackme / letsdefend / hackthebox room writeups (only public boxes)
 - `resources.md` — every free / paid resource i use, with notes
 
 ## why public?
 
-because accountability + a portfolio > a resume. every friday i post what i learned on linkedin. if you're a SOC analyst, detection engineer, or security hiring manager — i'd genuinely love your input. if you spot a gap in my plan, please tell me.
+because accountability + a portfolio = a CV. every friday i post what i learned on linkedin. if you're a Cybersecurity specialist or security hiring manager — i'd genuinely love your input. if you spot a gap in my plan, please tell me.
 
 ## contact
 
 - github: [@kingswr1d](https://github.com/kingswr1d)
-- linkedin: search "kingswr1d"
+- linkedin: https://www.linkedin.com/in/kgosi-ntshingila-01a427359?utm_source=share_via&utm_content=profile&utm_medium=member_android
