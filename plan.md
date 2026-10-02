@@ -32,7 +32,7 @@
 
 ## weeks 7-9: siem + detection fundamentals
 
-**goal:** become hireable, not just certified. real detection work.
+**goal:** become hireable, not just certified.
 
 - **lab:** wazuh single-node install on laptop (5gb is tight — disable elastic stack, just wazuh manager + agents). or use tryhackme's elastic prebuilt rooms.
 - **practice:** letsdefend investigations continue. write 5+ sigma rules in `detection-rules/`.
@@ -45,11 +45,11 @@
 
 **goal:** ship a public portfolio, start applying
 
-- **capstone:** detection-rules repo with 10+ rules + docker-compose so others can run your stack in 5 min
-- **job hunt:** resume + linkedin rewrite (post-sec+), 10 informational interviews with SOC analysts on linkedin
-- **cert optional:** BTL1 if budget allows — it's the cert that says "i can do the job"
+- **capstone:** detection-rules repo with 10+ rules + docker-compose so others can run my stack in 5 min
+- **job hunt:** resume + linkedin rewrite (post-sec+), cold dm professionals on linkedin
+- **cert optional:** BTL1 if budget allows. A more hands-on cert
 - **deliverables:**
-  - week 10: resume + linkedin rewrite done, 5 SOEs sent
+  - week 10: CV + linkedin rewrite done, 5 SOEs sent
   - week 11: 10 more SOEs + 2 mock interviews on Pramp
   - week 12: applications live + capstone repos public + first 5 job apps submitted
 
