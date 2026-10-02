@@ -25,6 +25,13 @@ my public log as i teach myself cyber security from scratch.
 
 because accountability + a portfolio = a CV. every friday i post what i learned on linkedin. if you're a Cybersecurity specialist or security hiring manager — i'd genuinely love your input. if you spot a gap in my plan, please tell me.
 
+## side projects (the cyber-journey funding stack)
+
+these exist to *fund* the cyber pivot, not as career goals themselves:
+- [boardbeam](https://github.com/kingswr1d/boardbeam) — public AI meeting-minutes SaaS landing
+- **forex-bot** — local-only MT5 trend-following EA (EMA+RSI+ADX on H1 majors, london+ny sessions, 1% risk/trade). private backup repo, will go public once it has verified live results.
+- trading bot (MT5 EA on Exness ZA) — actively running, no repo yet.
+
 ## contact
 
 - github: [@kingswr1d](https://github.com/kingswr1d)
