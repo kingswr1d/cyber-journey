@@ -72,10 +72,3 @@
 3. if i miss a week: i tell you why, and i make it up the next week. no quiet disappearing.
 4. budget is real: don't buy anything without checking with hermes first. free alternatives exist for almost everything.
 
-## not in scope (yet)
-
-- red team / pen testing (later, year 2 maybe)
-- OSCP / OSEP (year 2+)
-- cloud security specialization (later)
-- malware reverse engineering (later)
-- compliance-only GRC roles (week 12+ decision — could pivot here if SOC path is too slow)
