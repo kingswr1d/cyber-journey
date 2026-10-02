@@ -9,7 +9,7 @@
 - starting knowledge: junior sysadmin / hobbyist dev level
 - hardware: laptop only (5gb ram — no local vm lab feasible)
 - time budget: 15+ hrs/wk
-- goal: any first sec role (SOC tier 1, GRC, IT security, junior analyst)
+- goal: any first sec role
 
 ## weeks 1-3: foundations + first cert push
 
